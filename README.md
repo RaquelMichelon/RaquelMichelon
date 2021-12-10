@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 👋 Hi, I’m @RaquelDarelliMichelon
+- 👀 I’m interested in Data Science, Data Engineering, Python and JavaScript
+- 🌱 I’m currently learning Software Development at Federal Institute of Santa Catarina (IFSC) and Data Engineering at Digital Inovation One (DIO - online)
+- 💞️ I’m looking to collaborate on projects that solve daily problems, especially using data
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/raquel-darelli-michelon-0068b0182/)
 ![RaquelMichelon Status](https://github-readme-stats.vercel.app/api?username=RaquelMichelon&show_icons=true)
  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelMichelon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
