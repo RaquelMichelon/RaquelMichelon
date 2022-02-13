@@ -1,5 +1,5 @@
 <h1>Hi 👋 , Glad to see you here! I'm Raquel Michelon</h1>
-<h3>An IoT researcher, Systems Development Student and Data Science Enthusiast</h3> </br>
+<h3>An IoT researcher, Systems Development Student, and Data Science Enthusiast</h3> </br>
 
 - 👀  I’m interested in IoT, Industry 4.0, Data Science, Data Engineering, Java, Python, JavaScript and so on
 - 🌱  I’m currently learning Software Development at Federal Institute of Santa Catarina (IFSC) and Data Engineering at Digital Inovation One (DIO - online)
