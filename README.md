@@ -3,7 +3,7 @@
 
 - 🇧🇷  I’m from Brazil
 - 👀  I’m interested in IoT, Industry 4.0, Data Science, Data Engineering, Java, Python, JavaScript and so on
-- 🌱  I’m currently learning Software Development at Federal Institute of Santa Catarina (IFSC)
+- 🌱  I’m currently learning Data Science as a self-taught student on multiple platforms
 - 💞️  I’m looking to collaborate on projects that solve daily problems, especially using data
 
 </br>
