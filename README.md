@@ -1,9 +1,11 @@
 <h1>Hi 👋 , Glad to see you here! I'm Raquel Michelon</h1>
 <h3>An IoT researcher, Software Development Technician, and Data Science Enthusiast</h3> </br>
 
-- 🇧🇷  I’m from Brazil
+- 🇧🇷  I’m from Brazil, although 🇵🇹 I'm based in Lisbon - Portugal
+- 🔭  I’m working remotely on an academic project which the objective to mitigate the problem of power cable theft
 - 👀  I’m interested in IoT, Industry 4.0, Data Science, Data Engineering, Java, Python, JavaScript and so on
-- 🌱  I’m currently learning Data Science as a self-taught student on multiple platforms
+- 🌱  I love learning and I’m currently studying Python / Data Science as a self-taught student on multiple platforms (Lisbon Data Science Academy, Data Science Academy and so on) 
+- 🤖  I’m currently developing a personal project involving Machine Learning Pipeline to classify monthly expenses 
 - 💞️  I’m looking to collaborate on projects that solve daily problems, especially using data
 
 </br>
