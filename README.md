@@ -3,8 +3,8 @@
 
 - 🇧🇷  I’m a brazilian based in Lisbon(PT) 🇵🇹 
 - 🔭  I’m working remotely on an academic project which the objective to mitigate the problem of power cable theft
-- 👀  I’m interested in IoT, Industry 4.0, Data Science, Data Engineering, Java, Python, JavaScript and so on
-- 🌱  I love learning and I’m currently studying Python / Data Science as a self-taught student on multiple platforms (Lisbon Data Science Academy, Data Science Academy and so on) 
+- 👀  I’m interested in Web Devepment, IoT, Industry 4.0, Data World, ML, Java, Python, JavaScript and so on
+- 🌱  I love learning and I’m always looking for ways to get the world better through my work 
 - 🤖  I’m currently developing a personal project involving Machine Learning Pipeline to classify monthly expenses 
 - 💞️  I’m looking to collaborate on projects that solve daily problems, especially using data
 
