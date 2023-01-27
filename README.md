@@ -2,7 +2,7 @@
 <h3>An IoT researcher, Software Development Technician, and Data Science Enthusiast</h3> </br>
 
 - 🇧🇷  I’m a brazilian based in Lisbon(PT) 🇵🇹 
-- 🔭  I’m a web developer at AtmanTecnology and an academic researcher in a project that tries to mitigate the problem of power cable theft
+- 🔭  I’m a web developer at AtmanTecnology and an academic researcher in a project that tries to mitigate the power cable theft problem
 - 👀  I’m interested in Web Devepment, IoT, Industry 4.0, Data World, ML, Java, Python, JavaScript and so on
 - 🌱  I love learning and I’m always looking for ways to get the world better through my work 
 - 🤖  I’m currently developing a personal project involving Machine Learning Pipeline to classify monthly expenses 
