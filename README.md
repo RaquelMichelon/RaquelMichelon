@@ -1,7 +1,7 @@
 <h1>Hi 👋 , Glad to see you here! I'm Raquel Michelon</h1>
 <h3>Java Software Developer, and Science Enthusiast</h3> </br>
 
-- 🇧🇷  I’m a brazilian based in Lisbon(PT) 🇵🇹 
+- 🇧🇷  I’m a Brazilian based in Portugal 🇵🇹 
 - 🔭  I’m a web developer at AtmanTecnology and an academic researcher in a project that tries to mitigate the power cable theft problem
 - 👀  I’m interested in Web Development, IoT, Industry 4.0, Data World, ML, Java, Python, JavaScript and so on
 - 🌱  I love learning and I’m always looking for ways to get the world better through my work 
